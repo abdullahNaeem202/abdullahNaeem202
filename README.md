@@ -7,7 +7,7 @@
 
 </h4>
 
-- 📚 I'm currently learning **React, NextJS, Tailwind, Airflow, and Snowflake**
+- 📚 I'm currently learning **React, NodeJS, Tailwind, Airflow, and Snowflake**
 - 💬 **Feel free to reach out** if you have any questions about my projects or work experience!
 - 📫 Reach me at abdullahnaeem@hotmail.ca
 - 💻 Check out my portfolio at: *insert link here*
@@ -38,6 +38,30 @@
 <a href = "https://www.mathworks.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40" />
  </a>
 </p>
+
+<h3 align = "left">Favorite Tools:</h3>
+<p align = "left">
+<a href = "https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />
+ </a>
+<a href = "https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
+ </a>
+<a href = "https://www.sqlite.org/docs.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40" />
+ </a>
+<a href = "https://firebase.google.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40" />
+ </a>
+<a href = "https://developers.google.com/analytics" target="_blank" rel="noreferrer"> <img src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_analytics.svg" alt="Google Analytics" width="40" height="40" />
+ </a>
+<a href = "https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" />
+ </a>
+ <a href = "https://react.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React.js" width="40" height="40" />
+ </a>
+ <a href = "https://tailwindcss.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
+ </a>
+<a href = "https://vite.dev" target="_blank" rel="noreferrer"> <img src="https://vitejs.dev/logo.svg" alt="Vite" width="40" height="40" />
+</a>
+ 
+</p>
+
 
 
 
