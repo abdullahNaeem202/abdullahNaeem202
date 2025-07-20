@@ -3,14 +3,12 @@
 <h4 align = "center"> 
 <p align = "center">
   I am a Data Science and Computing Science new grad from Simon Fraser University. I have a passion in finding solutions to complex business problems and delivering insightful       recommendations through data analysis and research. Proficient in Power BI, Python, JavaScript, SQL, and HTML/CSS, with experience in the industry gained during my undergraduate studies. </p> 
-<p align = "center"> I am always looking to build more projects and learn new tools, so you will find respositories showcasing what I learnt through exciting new breakthroughs and findings! </p>
-
 </h4>
 
-- 📚 I'm currently learning **React, NodeJS, Tailwind, Airflow, and Snowflake**
+- 📚 I'm currently learning **React, NextJS, Tailwind, Apache Airflow, and Snowflake**
 - 💬 **Feel free to reach out** if you have any questions about my projects or work experience!
 - 📫 Reach me at abdullahnaeem@hotmail.ca
-- 💻 Check out my portfolio at: *insert link here*
+- 💻 Check out **my portfolio** at: *insert link here*
 
 <h3 align="left"> Connect with me on LinkedIn: </h3>
 <p align = "left">
@@ -59,7 +57,24 @@
  </a>
 <a href = "https://vite.dev" target="_blank" rel="noreferrer"> <img src="https://vitejs.dev/logo.svg" alt="Vite" width="40" height="40" />
 </a>
- 
+<a href = "https://pandas.pydata.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" />
+</a>
+<a href = "https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="70" height="70" />
+</a>
+<a href = "https://www.databricks.com/glossary/pyspark" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="PySpark" width="70" height="70" />
+</a>
+<a href = "https://hadoop.apache.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg" alt="Apache Hadoop" width="110" height="110" />
+</a>
+<a href = "https://seaborn.pydata.org" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_static/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40" />
+</a>
+<a href = "https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40" />
+</a>
+<a href = "https://www.tableau.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau Icon" width="40" height="40" />
+</a>
+<a href = "https://jupyter.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="40" height="40" />
+</a>
+<a href = "https://www.linux.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="Linux" width="40" height="40" />
+</a>
 </p>
 
 
