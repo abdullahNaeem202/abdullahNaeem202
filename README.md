@@ -10,7 +10,7 @@
 - 📫 Reach me at abdullahnaeem@hotmail.ca
 - 💻 Check out **my portfolio** at: *insert link here*
 
-<h3 align="left"> Connect with me on LinkedIn: </h3>
+<h3 align="left"> Connect with me here: </h3>
 <p align = "left">
   <a href="https://www.linkedin.com/in/naeemabdullah2002/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Abdullah Naeem" height="30" width="30" /> </a>
@@ -23,7 +23,7 @@
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt = "Python" height = "40" width = "40" /> </a>
   <a href = "https://www.r-project.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40" />
  </a>
- <a href = "https://www.w3schools.com/c/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
+ <a href = "https://www.w3schools.com/c/" target="_blank" rel="noreferrer"> <img src = "https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="40" height="40" />
  </a>
  <a href = "https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
  </a>
