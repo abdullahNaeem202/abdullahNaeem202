@@ -8,7 +8,7 @@
 - 📚 I'm currently learning **React, NextJS, Tailwind, Apache Airflow, and Snowflake**
 - 💬 **Feel free to reach out** if you have any questions about my projects or work experience!
 - 📫 Reach me at abdullahnaeem@hotmail.ca
-- 💻 Check out **my portfolio** at: *insert link here*
+- 💻 Check out **my portfolio** at: https://abdullahnaeem.com/
 
 <h3 align="left"> Connect with me here: </h3>
 <p align = "left">
