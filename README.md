@@ -5,7 +5,8 @@
   I am a Data Science and Computing Science new grad from Simon Fraser University. I have a passion in finding solutions to complex business problems and delivering insightful       recommendations through data analysis and research. Proficient in Power BI, Python, JavaScript, SQL, and HTML/CSS, with experience in the industry gained during my undergraduate studies. </p> 
 </h4>
 
-- 📚 I'm currently learning **Apache Airflow, Snowflake, PyTorch, and Docker** and working on end-to-end data engineering projects
+- 📚 I'm currently learning **Apache Airflow, Snowflake, PyTorch, and Docker** and working on end-to-end data engineering projects.
+- 🎯 I'm currently exploring data engineering by building end-to-end projects that involve data ingestion, data storage, and ETL workflows.
 - 💬 **Feel free to reach out** if you have any questions about my projects or work experience!
 - 📫 Reach me at abdunaeem002@gmail.com
 - 💻 Check out **my portfolio** at: https://abdullahnaeem.com/
