@@ -2,11 +2,11 @@
 <h3 align = "center"> Aspiring Data Analyst </h3>
 <h4 align = "center"> 
 <p align = "center">
-  I am a Data Science and Computing Science new grad from Simon Fraser University. I have a passion in finding solutions to complex business problems and delivering insightful recommendations through data analysis and research. Proficient in Power BI, Python, JavaScript, SQL, and HTML/CSS, with experience in the industry gained during my undergraduate studies. </p> 
+  I am a Data Science and Computing Science alumni from Simon Fraser University. I have a passion in finding solutions to complex business problems and delivering insightful recommendations through data analysis and research. I am Proficient in Python, R, SQL, MATLAB and many other tools, with experience in the industry that I gained during my undergraduate studies. </p> 
 </h4>
 
-- 📚 I'm currently learning **Django, Snowflake, PyTorch, and Docker**
-- 🎯 I'm currently exploring software engineering projects that involve data ingestion, data storage, and ETL workflows.
+- 📚 I'm currently learning **PyTorch, Docker, Snowflake, Amazon S3**
+- 🎯 I'm currently working on projects that involve data ingestion, data storage, and ETL workflows.
 - 💬 **Feel free to reach out** if you have any questions about my projects or work experience!
 - 📫 Reach me at abdunaeem002@gmail.com
 - 💻 Check out **my portfolio** at: https://abdullahnaeem.com/
